@@ -5,30 +5,12 @@
       <h1 class="title">forza.finance</h1>
       <div class="links">
         <a
-          href="https://www.mintscan.io/kava/validators/kavavaloper18x7mhjqyjxadkzreh3ae2vfw83ar2cvhf72gk6"
-          target="_blank"
-          title="forza.finance Kava Validator"
-          class="button--grey"
-        >
-          Kava
-        </a>
-        <a
-          href="https://crypto.org/explorer/validator/crocncl1uc8sgjl2xm7u54al6p02mmt5vf6vhz6024485w"
+          href="https://crypto.org/explorer/validator/crocncl1qvhu7slzcdf3rer07y3au2xwxkwugr77xsylxv"
           target="_blank"
           title="forza.finance Crypto.org Chain Validator"
           class="button--grey"
         >
           Crypto.org Chain
-        </a>
-        <a
-          href="https://twitter.com/forzafin"
-          target="_blank"
-          class="button--grey"
-        >
-          Twitter
-        </a>
-        <a href="https://t.me/forzafin" target="_blank" class="button--grey">
-          Telegram
         </a>
       </div>
     </div>
