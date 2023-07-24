@@ -12,6 +12,14 @@
         >
           Crypto.org Chain
         </a>
+        <a
+          href="https://escan.live/validator/evmosvalcons1p6fk4rrz09zyelequefq2txmq5s6ahqnt44ex0"
+          target="_blank"
+          title="forza.finance Evmos Validator"
+          class="button--grey"
+        >
+          Evmos
+        </a>
       </div>
     </div>
   </div>
